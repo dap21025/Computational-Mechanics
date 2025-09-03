@@ -1,8 +1,4 @@
-# Hello-World
-Homework 1 - Repository practice - Git and GitHub
-
-### Subsection font size and format
-
-## Section font size and format
-
-Inline math: $\Gamma(x) = \int_0^{\infty} e^{-t} x^t dt$
+#Question 1: Calculate some properties of a rectangular box that is 12.5”x11”x14” and weighs 31 lbs
+##a) What is the volume of the box?
+##b) What is the average density of the box?
+##c) What is the result of the following logical operation, volume>1000 (in inches^3)
